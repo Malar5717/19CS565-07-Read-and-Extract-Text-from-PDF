@@ -27,6 +27,7 @@ The automation creates one output file in the project folder:
 
 * **File Name:** `extractedtext.txt`
 * **Contents:** The raw, extracted text from `RPA qp.pdf`.
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/3b55b918-b295-4d41-986d-7aeb16a6e852" />
 
 files attached.
 
