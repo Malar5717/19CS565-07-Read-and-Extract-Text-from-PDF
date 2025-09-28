@@ -1,9 +1,5 @@
 # EXP 07: READ AND EXTRACT FROM PDF
 
-This repository contains a simple UiPath workflow designed to extract text content from a native (text-based) PDF file and save the output to a plain text document.
-
----
-
 ### AIM
 
 The objective is to read the full text content from a sample PDF file and save that content into a new `.txt` file for further processing or review.
